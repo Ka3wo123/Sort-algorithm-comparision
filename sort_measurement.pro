@@ -9,4 +9,5 @@ SOURCES += \
 HEADERS += \
     sortalgorithms.h
 
-DISTFILES +=
+DISTFILES += \
+    .gitignore
