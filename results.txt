@@ -1,0 +1,180 @@
+Simple quicksort on one thread. Elements: 2000000
+Time execution 477.125200ms
+
+Bubble sort on 200 threads. Elements: 2000000
+Time execution 10.320785s
+
+Quick sort on 200 threads. Elements: 2000000
+Time execution 1.082040s
+
+Quick sort on 200 threads. Elements: 10
+Time execution 10.709500ms
+
+Simple quicksort on single thread. Elements: 10000000
+Time execution 2.462392s
+
+Quick sort on 200 threads. Elements: 10000000
+Time execution 4.564303s
+
+Quick sort on 100 threads. Elements: 10000000
+Time execution 2.858115s
+
+Quick sort on 80 threads. Elements: 10000000
+Time execution 2.447345s
+
+Quick sort on 64 threads. Elements: 22
+Time execution 3.818700ms
+
+Quick sort on 64 threads. Elements: 28
+Time execution 4.114600ms
+
+Simple quicksort on single thread. Elements: 28
+Time execution 0.024200ms
+
+Simple quicksort on single thread. Elements: 1048576
+Time execution 243.958200ms
+
+Simple quicksort on single thread. Elements: 33554432
+Time execution 8.165488s
+
+Quick sort on 64 threads. Elements: 33554432
+Time execution 6.386203s
+
+Quick sort on 128 threads. Elements: 33554432
+Time execution 10.807513s
+
+Quick sort on 256 threads. Elements: 33554432
+Time execution 19.286506s
+
+Quick sort on 32 threads. Elements: 33554432
+Time execution 4.503560s
+
+Quick sort on 16 threads. Elements: 33554432
+Time execution 3.517082s
+
+Quick sort on 8 threads. Elements: 33554432
+Time execution 3.004552s
+
+Quick sort on 4 threads. Elements: 33554432
+Time execution 3.247320s
+
+Quick sort on 4 threads. Elements: 33554432
+Time execution 3.239281s
+
+Quick sort on 2 threads. Elements: 33554432
+Time execution 4.698793s
+
+Quick sort on 8 threads. Elements: 134217728
+Time execution 12.488912s
+
+Quick sort on 4 threads. Elements: 134217728
+Time execution 14.862414s
+
+Quick sort on 16 threads. Elements: 33554432
+Time execution 4.684721s
+
+Simple quicksort on single thread. Elements: 16
+Time execution 0.026300ms
+
+Simple quicksort on single thread. Elements: 16
+Time execution 5.903700ms
+
+Simple quicksort on single thread. Elements: 16
+Time execution 4.006900ms
+
+Simple quicksort on single thread. Elements: 16
+Time execution 5.698000ms
+
+Simple quicksort on single thread. Elements: 16
+Time execution 6.959200ms
+
+Simple quicksort on single thread. Elements: 16
+Time execution 7.385500ms
+
+Simple quicksort on single thread. Elements: 16
+Time execution 11.732200ms
+
+Simple quicksort on single thread. Elements: 16
+Time execution 0.019800ms
+
+Simple quicksort on single thread. Elements: 16
+Time execution 0.014100ms
+
+Simple quicksort on single thread. Elements: 1048576
+Time execution 291.687200ms
+
+Simple quicksort on single thread. Elements: 16777216
+Time execution 4.028995s
+
+Quick sort on 16 threads. Elements: 16777216
+Time execution 1.826248s
+
+Quick sort on 32 threads. Elements: 16777216
+Time execution 2.242207s
+
+Quick sort on 8 threads. Elements: 16777216
+Time execution 1.487183s
+
+Simple quicksort on single thread. Elements: 33554432
+Time execution 8.598783s
+
+Simple quicksort on single thread. Elements: 33554432
+Time execution 18.297424s
+
+Quick sort on 8 threads. Elements: 33554432
+Time execution 3.783812s
+
+Simple quicksort on single thread. Elements: 33554432
+Time execution 11.130793s
+
+Simple quicksort on single thread. Elements: 33554432
+Time execution 19.057205s
+
+Simple quicksort on single thread. Elements: 33554432
+Time execution 16.933005s
+
+Simple quicksort on single thread. Elements: 33554432
+Time execution 18.059259s
+
+Simple quicksort on single thread. Elements: 33554432
+Time execution 17.000316s
+
+Quick sort on 8 threads. Elements: 33554432
+Time execution 3.752712s
+
+Simple quicksort on single thread. Elements: 134217728
+Time execution 47.291328s
+
+Quick sort on 16 threads. Elements: 134217728
+Time execution 50.932518s
+
+Quick sort on 8 threads. Elements: 134217728
+Time execution 16.889559s
+
+Quick sort on 8 threads. Elements: 268435456
+Time execution 89.208189s
+
+Quick sort on 8 threads. Elements: 67108864
+Time execution 13.128323s
+
+Quick sort on 8 threads. Elements: 268435456
+Time execution 88.208804s
+
+Quick sort on 128 threads. Elements: 16777216
+Time execution 23.593384s
+
+Quick sort on 128 threads. Elements: 1073741824
+Time execution 502.467068s
+
+Quick sort on 128 threads. Elements: 32768
+Time execution 19.491500ms
+
+Quick sort on 128 threads. Elements: 32768
+Time execution 33.367900ms
+
+Quick sort on 128 threads. Elements: 32768
+Time execution 22.589000ms
+
+Quick sort on 128 threads. Elements: 32768
+Time execution 25.934800ms
+
