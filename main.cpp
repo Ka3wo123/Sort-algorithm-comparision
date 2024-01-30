@@ -10,8 +10,8 @@
 #include <fstream>
 #include <string>
 
-#define NUM_THREADS 128
-#define SIZE (1<<15)
+#define NUM_THREADS 64
+#define SIZE (1<<30)
 
 using namespace std;
 using namespace chrono;
@@ -38,16 +38,21 @@ int main() {
         return 1;
     }
 
-    cout << "Filling array with values..." << endl;
+    cout << "Filling array with values...";
     for(auto &el : arr) {
         el = bounds(random);
     }  
+
+//    for(int it = 0; it < arr.size(); it++) {
+//        cout << arr[it] << " ";
+//    }
 
     cout << "Finished." << endl;
 
     cout << "Sorting..." << endl;
 
     time_start = chrono::steady_clock::now();
+//    algotithmUsed = sa.simple_bubble_sort(arr);
 //    algotithmUsed = sa.bubble_sort_multithread(arr, NUM_THREADS);
     algotithmUsed = sa.quick_sort_multithread(arr, NUM_THREADS);
 //    algotithmUsed = sa.simple_quick_sort(arr, 0, arr.size());

@@ -178,3 +178,111 @@ Time execution 22.589000ms
 Quick sort on 128 threads. Elements: 32768
 Time execution 25.934800ms
 
+Simple bubble sort on single thread. Elements: 1024
+Time execution 4.998700ms
+
+Simple bubble sort on single thread. Elements: 1024
+Time execution 5.126800ms
+
+Simple bubble sort on single thread. Elements: 131072
+Time execution 32.848927s
+
+Simple quicksort on single thread. Elements: 1024
+Time execution 0.901300ms
+
+Simple quicksort on single thread. Elements: 32
+Time execution 0.027800ms
+
+Simple bubble sort on single thread. Elements: 32
+Time execution 0.012600ms
+
+Simple quicksort on single thread. Elements: 131072
+Time execution 42.298000ms
+
+Simple quicksort on single thread. Elements: 1048576
+Time execution 350.887900ms
+
+Simple quicksort on single thread. Elements: 33554432
+Time execution 16.392063s
+
+Simple quicksort on single thread. Elements: 16
+Time execution 0.027400ms
+
+Simple quicksort on single thread. Elements: 1048576
+Time execution 361.445500ms
+
+Quick sort on 32 threads. Elements: 1048576
+Time execution 198.438000ms
+
+Quick sort on 1 threads. Elements: 1048576
+Time execution 282.937000ms
+
+Bubble sort on 8 threads. Elements: 131072
+Time execution 1.124710s
+
+Bubble sort on 16 threads. Elements: 131072
+Time execution 618.138200ms
+
+Bubble sort on 32 threads. Elements: 131072
+Time execution 331.513500ms
+
+Bubble sort on 64 threads. Elements: 131072
+Time execution 193.310900ms
+
+Bubble sort on 128 threads. Elements: 131072
+Time execution 138.389700ms
+
+Bubble sort on 256 threads. Elements: 131072
+Time execution 142.898600ms
+
+Bubble sort on 16 threads. Elements: 131072
+Time execution 590.746100ms
+
+Bubble sort on 128 threads. Elements: 131072
+Time execution 143.042300ms
+
+Bubble sort on 512 threads. Elements: 131072
+Time execution 248.795300ms
+
+Bubble sort on 1024 threads. Elements: 131072
+Time execution 414.188300ms
+
+Bubble sort on 256 threads. Elements: 131072
+Time execution 157.416700ms
+
+Bubble sort on 1288 threads. Elements: 131072
+Time execution 550.150500ms
+
+Bubble sort on 128 threads. Elements: 131072
+Time execution 148.287500ms
+
+Bubble sort on 64 threads. Elements: 131072
+Time execution 188.177200ms
+
+Bubble sort on 128 threads. Elements: 131072
+Time execution 141.019900ms
+
+Quick sort on 64 threads. Elements: 33554432
+Time execution 14.036956s
+
+Quick sort on 256 threads. Elements: 33554432
+Time execution 24.034575s
+
+Quick sort on 32 threads. Elements: 33554432
+Time execution 6.304922s
+
+Quick sort on 16 threads. Elements: 33554432
+Time execution 4.446162s
+
+Quick sort on 8 threads. Elements: 33554432
+Time execution 3.654724s
+
+Quick sort on 4 threads. Elements: 33554432
+Time execution 4.611042s
+
+Quick sort on 4 threads. Elements: 33554432
+Time execution 4.688948s
+
+Quick sort on 128 threads. Elements: 1073741824
+Time execution 561.448784s
+

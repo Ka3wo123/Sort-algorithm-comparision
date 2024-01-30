@@ -3,7 +3,7 @@
 #include <random>
 
 #define SIZE (1<<30)
-#define THREADS 1024
+#define THREADS 64
 
 using namespace std;
 
