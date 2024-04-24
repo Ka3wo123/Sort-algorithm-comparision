@@ -43,10 +43,6 @@ int main() {
         el = bounds(random);
     }  
 
-//    for(int it = 0; it < arr.size(); it++) {
-//        cout << arr[it] << " ";
-//    }
-
     cout << "Finished." << endl;
 
     cout << "Sorting..." << endl;
