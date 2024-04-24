@@ -68,10 +68,6 @@ int main() {
 
     resultsFile << algotithmUsed << "\n" << timeExe;
 
-//    for(int it = 0; it < arr.size(); it++) {
-//        cout << arr[it] << " ";
-//    }
-
     resultsFile.close();
 
     return 0;
